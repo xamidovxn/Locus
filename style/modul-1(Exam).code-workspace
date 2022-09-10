@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "modul-1(Exam)",
+			"path": "../../modul-1(Exam)"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Locus"
+	}
+}
